@@ -1,0 +1,19 @@
+{
+  "name": "livrofundamentosdaprogramacaodecomputadores_ascenciocampos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\\"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
